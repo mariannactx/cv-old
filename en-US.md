@@ -6,15 +6,21 @@
 > English - Fluent
 
 ## Education
-> Digital Product School
+### Digital Product School
+experience description
 
-> IPB
+### IPB
+experience description
 
-> UFPB
+### UFPB
+experience description
 
 ## Experiences
-> VTEX (mar/2021 - jun/2023)
+### VTEX (mar/2021 - jun/2023)
+experience description
 
-> Phoebus (2019 - 2021)
+### Phoebus (2019 - 2021)
+experience description
 
-> YuppieTech (
+### YuppieTech (2016 - 2018)
+experience description
