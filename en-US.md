@@ -1,6 +1,6 @@
 # Marianna Cruz Teixeira
 
-Full stack Software Engineer. Enthusiastic about web languages, communities and women empowerment.
+Software Engineer. Enthusiastic about web languages, communities and women empowerment.
 
 **Portuguese** Native | **English** Fluent
 
@@ -18,7 +18,7 @@ Etiam dapibus convallis nisl. Donec sodales tempus libero sit amet congue. Vesti
 
 Sed eu egestas odio, a dapibus tellus. Aenean vel eros in odio imperdiet vestibulum quis quis magna. Aenean elementum volutpat justo vitae accumsan. Aenean quis elementum nisl, quis fermentum dui.
 
-### Full stack Web Developer/Researcher @ LAVID (jun/2018 - mar/2019)
+### Fullstack Web Developer/Researcher @ LAVID (jun/2018 - mar/2019)
 
 `Javascript | NodeJS | HTML | CSS | MySQL`
 
@@ -32,7 +32,7 @@ Sed eu egestas odio, a dapibus tellus. Aenean vel eros in odio imperdiet vestibu
 
 ### Client support and full stack developer @ CCHLA/UFPB - Intern
 
-` PHP | Wordpress | Drupal | HTML | CSS | Customer Service`
+`PHP | Wordpress | Drupal | HTML | CSS | Customer Service`
 
 ### Freelancer (jun/2013 - abr/2016 )
 
@@ -48,6 +48,6 @@ Digital Product School is a 3-month training program which promotes a realistic 
 
 One semester Bachelor of Multimedia, Programming and Entrepreneuship
 
-### UFPB
+### Student @ UFPB
 
 Bachelor of Communication in Digital Media
