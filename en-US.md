@@ -1,10 +1,46 @@
 # Marianna Cruz Teixeira
 
-Software Engineer. Enthusiastic about web languages, communities and women empowerment.
+### Software Engineer
 
-**Portuguese** Native | **English** Fluent
+#### Mid-level | +8 years of experience
+
+```
+Mission statement etiam dapibus convallis nisl. Donec sodales tempus libero sit amet congue. Vestibulum non dapibus elit. Ut suscipit ullamcorper aliquet. Integer id tortor in eros efficitur ullamcorper. Morbi in tortor odio.
+```
+
+![Alt text](image.png)
+
+```
+  Things I enjoy working with
+```
+
+## Skills
+
+`Hard/Soft skill | My Level`
+
+|                |        |
+| -------------- | ------ |
+| **Portuguese** | Native |
+| **English**    | Fluent |
+
+|                |          |
+| -------------- | -------- |
+| **NodeJS**     | My Level |
+| **Typescript** | My Level |
+| **GIT**        | My Level |
+| **Agile**      | My Level |
+
+|                                                                   |
+| ----------------------------------------------------------------- |
+| Good communication                                                |
+| Aware of other parts of the process (Design, Testing, Validation) |
 
 ## Experiences
+
+[XYZ Formula Article](https://www.inc.com/bill-murphy-jr/google-recruiters-say-these-5-resume-tips-including-x-y-z-formula-will-improve-your-odds-of-getting-hired-at-google.html)
+![Alt text](image-1.png)
+![Alt text](image-2.png)
+![Alt text](image-3.png)
 
 ### Software Engineer @ VTEX (mar/2021 - jun/2023)
 
@@ -42,7 +78,7 @@ Sed eu egestas odio, a dapibus tellus. Aenean vel eros in odio imperdiet vestibu
 
 ### Software Enginer @ Digital Product School (sep/2018 - nov/2018)
 
-Digital Product School is a 3-month training program which promotes a realistic eviroment for building digital products in a diverse and multidisciplinary team, aiming to solve real problems around mobility and transportation.
+Digital Product School is a 3-month training program which promotes a realistic enviroment for building digital products in a diverse and multidisciplinary team, aiming to solve real problems around mobility and transportation.
 
 ### Exchange Student @ IPB (feb/2015 - jun/2015)
 

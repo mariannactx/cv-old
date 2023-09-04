@@ -1,2 +1,14 @@
-theme: jekyll-theme-primer
-title: Marianna Cruz Teixeira
+title: CV | Marianna Cruz Teixeira
+description: A beautiful template for your CV.
+url:
+baseurl: ''
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+  - jekyll-minifier
+
+exclude:
+  - docker-compose.yml
